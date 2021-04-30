@@ -1,0 +1,17 @@
+https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?starttime=2000-01-01%2000:00:00&endtime=2021-02-27%2023:59:59&minmagnitude=6&orderby=time
+
+
+https://earthquake.usgs.gov/fdsnws/event/1/query.geojson?starttime=2000-01-01%2000:00:00&endtime=2021-02-27%2023:59:59&minmagnitude=5.5&orderby=time
+
+
+L2011 <- 'https://svs.gsfc.nasa.gov/vis/a000000/a003800/a003810/mooninfo_2011.json'
+L2012 <- 'https://svs.gsfc.nasa.gov/vis/a000000/a003800/a003894/mooninfo_2012.json'
+L2013 <- 'https://svs.gsfc.nasa.gov/vis/a000000/a004000/a004000/mooninfo_2013.json'
+L2014 <- 'https://svs.gsfc.nasa.gov/vis/a000000/a004100/a004118/mooninfo_2014.json'
+L2015 <- 'https://svs.gsfc.nasa.gov/vis/a000000/a004200/a004236/mooninfo_2015.json'
+L2016 <- 'https://svs.gsfc.nasa.gov/vis/a000000/a004400/a004404/mooninfo_2016.json'
+L2017 <- 'https://svs.gsfc.nasa.gov/vis/a000000/a004500/a004537/mooninfo_2017.json'
+L2018 <- 'https://svs.gsfc.nasa.gov/vis/a000000/a004600/a004604/mooninfo_2018.json'
+L2019 <- 'https://svs.gsfc.nasa.gov/vis/a000000/a004400/a004442/mooninfo_2019.json'
+L2020 <- 'https://svs.gsfc.nasa.gov/vis/a000000/a004700/a004768/mooninfo_2020.json'
+L2021 <- 'https://svs.gsfc.nasa.gov/vis/a000000/a004800/a004874/mooninfo_2021.json'
